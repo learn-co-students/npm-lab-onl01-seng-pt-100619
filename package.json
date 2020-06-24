@@ -1,0 +1,22 @@
+{
+  "name": "npm-lab-onl01-seng-pt-100619",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackrobinrye/npm-lab-onl01-seng-pt-100619.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackrobinrye/npm-lab-onl01-seng-pt-100619/issues"
+  },
+  "homepage": "https://github.com/jackrobinrye/npm-lab-onl01-seng-pt-100619#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
